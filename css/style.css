@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color:#fff;font-family:Arial, Helvetica, sans-serif}
+img{border:0px}
+a{text-decoration:none}
+a:visited{text-decoration:none; color:inherit}
+.tabela{width:100%}
+.tabela a{text-decoration:none; color:#FFF; font-size:11px; font-weight:bold}
+.tabela a{display:block; padding-top:8px; padding-bottom:8px}
+
+.tabela td{background-color:#333333; border:0px; height:20px}
+td.menuon { background-color: #03527A; color: #fff}
+td.menuoff { background-color: #000000; color: #fff; }
+td.menu { background-color: #00ABFF; color: #fff; }
+
+.lista {width:100%;border-collapse: collapse;}
+.lista td{ border:#F0F0F0 1px solid;font-size:12px;}
+.lista span{ font-size:10px; margin-left:5px; color:#F90}

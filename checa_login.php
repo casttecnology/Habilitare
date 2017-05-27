@@ -1,0 +1,10 @@
+<?
+session_start();
+if($_SESSION["usr_ok"]==1)
+{
+}
+else
+{
+echo"<script>document.location.href='../login.php?usr_ok=0'</script>";
+}
+?>

@@ -1,0 +1,7 @@
+[05/25/2017 04:23:39]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+[05/25/2017 04:23:42]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+[05/25/2017 04:24:03]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+[05/25/2017 04:24:06]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+[05/25/2017 04:24:09]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+[05/25/2017 04:24:16]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+[05/25/2017 04:24:22]: passouss186.219.184.14 /teste/compra/index.php Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0

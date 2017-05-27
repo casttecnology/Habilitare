@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+a{text-decoration:none}
+img{border:0px}
+.tabela{width:100%; }
+.tabela tr td{border:1px solid #EAEAEA}
+body{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif; font-size:11px}
+.txt{border:#999 1px solid; background-image:url(../imagens/fd_txt.png); background-repeat:repeat-x;}
